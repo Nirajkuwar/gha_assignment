@@ -1,4 +1,4 @@
-name: CI
+name: q3 NOTES
 
 on:
   push:
